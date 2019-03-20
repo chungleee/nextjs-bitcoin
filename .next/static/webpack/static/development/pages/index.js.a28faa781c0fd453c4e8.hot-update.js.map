@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static/development/pages/index.js.a28faa781c0fd453c4e8.hot-update.js","sources":["webpack:///./pages/index.js"],"sourcesContent":["const Index = () => {\n  return <div>Hello NextJS</div>\n}\n\nexport default Index\n"],"mappings":";;;;;;;;;;;;;;;;AAAA;AACA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AACA;AACA;AACA;;;;A","sourceRoot":""}
